@@ -1,7 +1,7 @@
 {
     "rewrites": [
       {
-        "source": "/_vercel/image?url=%2Fimages%2F:path*",
+        "source": "/_vercel/image?url=%2Fimages%2F/:path*",
         "destination": "/assets/imgs/:path*"
       }
     ]
