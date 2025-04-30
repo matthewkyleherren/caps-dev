@@ -2,5 +2,5 @@
 User-agent: *
 Disallow: 
 
-Sitemap: https://capsules.moyra.co/sitemap.xml
+Sitemap: https://caps-dev.vercel.app/sitemap.xml
 # END nuxt-robots
